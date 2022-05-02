@@ -6,8 +6,8 @@
 - Check my 🖋 [Chinese blog](http://blog.wu-boy.com/) or 🌱 [Udemy Online Course](https://www.udemy.com/user/bo-yi-wu-2/)
 
 <a href="https://github.com/appleboy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=appleboy&show_icons=true&theme=merko&count_private=true" alt="Appleboy's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appleboy&theme=merko&layout=compact" alt="Appleboy's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimtrantrong&show_icons=true&theme=merko&count_private=true" alt="Appleboy's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimtrantrong&theme=merko&layout=compact" alt="Appleboy's github top languages" />
 </a>
 <br/>
 
