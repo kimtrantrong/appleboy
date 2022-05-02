@@ -1,13 +1,12 @@
 ### Hey 👋, I'm appleboy
 
-[![Github](https://img.shields.io/github/followers/appleboy?label=Follow&style=social)](https://github.com/appleboy)
+[![Github](https://img.shields.io/github/followers/kimtrantrong?label=Follow&style=social)](https://github.com/appleboy)
 
 - 🔭 I’m currently working on Mediatek as Software Enginner
-- Check my 🖋 [Chinese blog](http://blog.wu-boy.com/) or 🌱 [Udemy Online Course](https://www.udemy.com/user/bo-yi-wu-2/)
 
-<a href="https://github.com/appleboy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimtrantrong&show_icons=true&theme=merko&count_private=true" alt="Appleboy's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimtrantrong&theme=merko&layout=compact" alt="Appleboy's github top languages" />
+<a href="https://github.com/kimtrantrong">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimtrantrong&show_icons=true&theme=merko&count_private=true" alt="kimtrantrong's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimtrantrong&theme=merko&layout=compact" alt="kimtrantrong's github top languages" />
 </a>
 <br/>
 
